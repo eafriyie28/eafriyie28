@@ -29,20 +29,19 @@ I'm deeply committed to integrating advanced geospatial techniques with practica
 
 ---
 
-## 🚀 Projects & Contributions
-
-- **Transportation Network Optimization:** Crafting models to enhance the efficiency and sustainability of transit systems.
-- **GIS Tool Development:** Creating and contributing to open-source projects that empower spatial data analysis.
-- **Human-Centric Spatial Research:** Examining the dynamic between geospatial environments and human behavior to inform better urban planning and policy.
-
-I invite you to check out my repositories to see these projects in action, and I'm always open to discussions and collaborations!
+## 🎯 Interests & Hobbies
+🌍 Geospatial Software Development – Building and optimizing spatial analysis tools
+🤖 Algorithmic Problem Solving – Exploring TSP, NP-complete problems, and heuristic methods
+🎼 Sound & Music – Volunteer sound engineer and playing the trumpet
+📷 Photography – Capturing landscapes, urban environments, and events
+📡 Remote Sensing & GIS – Analyzing and visualizing spatial patterns in diverse datasets
 
 ---
 
 ## 📫 Get in Touch
 
-- **Email:** [your-email@example.com](afriyiemma@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/emmanuel-afriyie-3b922383/)
-- **University Profile:** [UT Knoxville](https://www.utk.edu/)
+- **Email:** [afriyiemma@gmail.com](afriyiemma@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/emmanuel-afriyie-3b922383/)
 - **X:** [X](https://www.x.com/afriyiemma/)
+  
 Thanks for stopping by my GitHub profile. Let's work together to push the boundaries of geospatial innovation!
