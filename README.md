@@ -41,8 +41,8 @@ I invite you to check out my repositories to see these projects in action, and I
 
 ## 📫 Get in Touch
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email:** [your-email@example.com](afriyiemma@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/emmanuel-afriyie-3b922383/)
 - **University Profile:** [UT Knoxville](https://www.utk.edu/)
-
+- **X:** [X](https://www.x.com/afriyiemma/)
 Thanks for stopping by my GitHub profile. Let's work together to push the boundaries of geospatial innovation!
